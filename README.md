@@ -54,6 +54,4 @@ Den här inlämningen är ett mer omfattande projekt som involverar filhantering
 
 
 ### ÖVRIGT:
-
-* Redovisning i grupp inför klass: **21/9**
-* Redovisning i grupp inför Maja: **25/9**
+* Redovisning i grupp inför Maja: **21/9**
