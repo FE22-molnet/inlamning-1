@@ -34,8 +34,8 @@ Så du ska kunna ladda upp en fil till AWS S3 från ditt webbgränssnitt, samt k
 ### VG-kriterier:
 
 **Ange behörigheter**:
-   - Se till att din Lambda-funktion och webbapplikation har de nödvändiga IAM-behörigheterna för att komma åt din S3-bucket och andra nödvändiga AWS-tjänster.
-   - 
+   - Se till att din Lambda-funktion har de nödvändiga IAM-behörigheterna för att komma åt din S3-bucket och andra nödvändiga AWS-tjänster.
+
 **I webbgränssnittet**:
    - Sök efter filer baserat på metadata.
 
