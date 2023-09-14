@@ -50,3 +50,10 @@ Så du ska kunna ladda upp en fil till AWS S3 från ditt webbgränssnitt, samt k
 
 
 Den här inlämningen är ett mer omfattande projekt som involverar filhantering, organisering, extrahering av metadata och användarinteraktion via ett webbgränssnitt. Det kommer att ge värdefull erfarenhet av att bygga en serverlös applikation med AWS Lambda och S3.
+
+
+
+### ÖVRIGT:
+
+**Redovisning i grupp inför klass**: 21/9
+**Redovisning i grupp inför Maja**: 25/9
