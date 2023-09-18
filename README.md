@@ -28,7 +28,6 @@ Så du ska kunna ladda upp en fil till AWS S3 från ditt webbgränssnitt, samt k
    - Utveckla ett webbaserat användargränssnitt där användare kan:
      - Ladda upp filer till S3-hinken.
      - Bläddra och visa uppladdade filer.
-   - Använd AWS SDK eller AWS Amplify för att interagera med AWS-tjänster från din webbapp. (Frivilligt)
 
 ### VG-kriterier:
 
