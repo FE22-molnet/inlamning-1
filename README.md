@@ -22,7 +22,6 @@ Så du ska kunna ladda upp en fil till AWS S3 från ditt webbgränssnitt, samt k
    - Skriv en Lambda-funktion i node.js.
    - När en fil laddas upp till S3-bucket bör Lambda-funktionen utlösas.
    - Implementera logik för att organisera filer i mappar baserat på användardefinierade regler (t.ex. filtyp, datum).
-   - *Implementera extrahering av filmetadata (t.ex. filstorlek, MIME-typ) och lagra det i en databas (t.ex. LowDb eller NeDb, ).* (Frivilligt)
 
 **Skapa ett webbgränssnitt**:
 - Exempel på arbetsgång:
